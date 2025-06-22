@@ -53,9 +53,8 @@
                 height="40"
         />
     </a>
-
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -68,28 +67,20 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
 
-
-
 </p>
 
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
+
 | 💻 **Top Languages**                                                                                                 | 🚀 **Highest Commit Now!**                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarounTaHa&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarounTaHa&theme=aura_dark) 
+
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
-
-
-<div align="center">
-
 
 
 ![HarounTaHa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarounTaHa&theme=vue-dark&hide_border=true)
 
-
-
-</div>
 
 
 

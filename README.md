@@ -79,11 +79,6 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
-![HarounTaHa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarounTaHa&theme=vue-dark&hide_border=true)
-
-
-
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git
